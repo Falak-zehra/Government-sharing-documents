@@ -26,7 +26,7 @@ link for website-
 https://falak-zehra.github.io/Government-sharing-documents/
 
 Home page -
-![image](image 1.png)
+![Alt text])
 
 
 
