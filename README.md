@@ -24,11 +24,35 @@ Share documents with others by entering their email addresses. Shared documents 
 # DEMO
 link for website-
 https://falak-zehra.github.io/Government-sharing-documents/
+Home Pge -
 ![Alt text](image1.png)
+Registration page
+-OTP Verification page
+![Alt text](image2.png)
+After OTP verification-
+SignUP page-
+![Alt text](image3.png)
+After USER SignUP-
+![Alt text](image4.png)
+Firebase Authentication-
+![Alt text](image5.png)
+Login page-
+![Alt text](image6.png)
+Upload/Update files page -
+![Alt text](image7.png)
+Can Delete File as well-
+![Alt text](image9.png)
+Firebase Storage where uploaded files are stored
+![Alt text](image10.png)
+After that Go to MY profile where details of users are inserted
+![Alt text](image11.png)
+After submitting the form -
+![Alt text](image12.png)
+Firebase Cloud Firestore identified as unique Aadhar number
+![Alt text](image13.png)
 
 
-Home page -
-![Alt text](URL or relative path to the image)
+
 
 
 
