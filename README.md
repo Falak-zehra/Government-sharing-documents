@@ -26,7 +26,7 @@ link for website-
 https://falak-zehra.github.io/Government-sharing-documents/
 
 Home page -
-![Alt text])
+![Alt text](URL or relative path to the image)
 
 
 
